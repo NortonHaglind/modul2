@@ -1,0 +1,12 @@
+print(5+10)
+print(5-10)
+print(5*10)
+print(5/10)
+print(5**10)
+print(5//10) #matematik
+y=int(input("Hur gammal är du?: "))
+x=float(input("Hur lång är du i meter?: "))
+z=int(input("Hur mycket väger du i kg?: "))
+print("Du väger " , (z*2.20462262) , "lbs.")
+print("Du är " , (y*52) , " veckor gammal.")
+print("Du har " , (z/(x**2)) , "BMI")
